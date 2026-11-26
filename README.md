@@ -55,9 +55,7 @@ cd neon-led-light-keyboard
 - **Requirements:** Android Studio with JDK 11, Gradle 7.0.2 (wrapper included)
 - **Package:** `com.demo.example.neonkeyboard` — the IME service is `MyKeyboard.SoftKeyboard`
 
-## ⚠️ Publishing Notes
-
-This is a Codester marketplace template ("Neon LED Light Keyboard"). Before publishing to Google Play:
+## ⚠️ Before Publishing to Google Play
 
 1. Rename the application ID / package (`com.demo.example.neonkeyboard`)
 2. Replace the AdMob **test IDs** (`/6499/example/...`) in `AdAdmob.java` with your real ad unit IDs
