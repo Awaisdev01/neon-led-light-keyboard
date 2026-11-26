@@ -89,6 +89,10 @@ neon-led-light-keyboard/
 
 ---
 
+## 📬 Contact
+
+Open for work and business inquiries — **awaisdev5765@gmail.com**
+
 <div align="center">
 
 *Type in neon* ✨
